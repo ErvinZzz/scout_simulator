@@ -53,3 +53,12 @@ rosrun teleop_twist_keyboard teleop_twist_keyboard.py
 
 * ### For navigation with autoware open planner
 Install [Autoware.AI with Open Planner 2.5](https://github.com/hatem-darweesh/autoware.ai.openplanner)
+
+## Reference
+
+* [Robosense Simulator](https://github.com/tomlogan501/robosense_simulator)
+* [Realsense Gazebo Plugin](https://github.com/pal-robotics/realsense_gazebo_plugin)
+* [Realsense description](https://github.com/IntelRealSense/realsense-ros)
+* [Scout Ros](https://github.com/agilexrobotics/scout_ros)
+* [Citysim](https://github.com/osrf/citysim)
+* [Warehouse Simulation Toolkit](https://github.com/wh200720041/warehouse_simulation_toolkit)
