@@ -1,5 +1,5 @@
 # scout_simulator
-scout_Simulator ROS package
+Scout_Simulator ROS package
 ```
 
 ├── sensors
