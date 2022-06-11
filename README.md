@@ -1,5 +1,5 @@
 # scout_simulator
-RoboBIM_Simulator ROS package
+scout_Simulator ROS package
 ```
 
 ├── sensors
